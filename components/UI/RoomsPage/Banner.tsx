@@ -41,16 +41,15 @@ const Banner = () => {
       <Inner>
         <TextContent>
           <h1 ref={title}>
-            <Reveal>Page Under DEV</Reveal>
+            <Reveal>Building a better tomorrow,</Reveal>
             <Reveal textDelay={0.5} slideDelay={0.5}>
-              <span>twin</span>
+              <span>one solution at a time.</span>
             </Reveal>
           </h1>
           <Flex ref={text}>
             <Reveal textDelay={1} slideDelay={1}>
               <p>
-                All room decoration was made with ecological certified and safe
-                materials.
+              Shaping tomorrow with innovative solutions for a sustainable and thriving future.
               </p>
             </Reveal>
             <BookRoomBtn type="button">

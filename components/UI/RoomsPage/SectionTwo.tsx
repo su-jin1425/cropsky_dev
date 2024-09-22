@@ -49,18 +49,12 @@ const SectionTwo = () => {
         <FlexTextCtn>
           <h2 ref={title}>
             <Reveal>
-              All suites have a unique design because we want our every guest to
-              feel special.
+            Envisioning Our Future: A Leader in Innovation, Sustainability, and Agricultural Excellence.
             </Reveal>
           </h2>
           <p ref={text}>
             <Reveal textDelay={0.5} slideDelay={0.5}>
-              The Superior twin would perfectly match the needs of those who
-              plan to stay long. The bright and airy room is equipped with
-              superior soft Italian furniture. Large windows open a beautiful
-              view to the historical part of the city. Contemporary interior
-              design and comfortable beds will make your stay cozy and
-              delightful.
+            Leverage advanced LiDAR technology to create high-resolution 3D maps of agricultural fields, providing comprehensive terrain analysis. These detailed maps enable smarter field planning, optimized resource management, and enhanced operational efficiency for improved agricultural outcomes.
             </Reveal>
           </p>
         </FlexTextCtn>
@@ -69,7 +63,7 @@ const SectionTwo = () => {
         </AbsoluteImage>
         <h2>
           <Reveal textDelay={0.75} slideDelay={0.75}>
-            Premier Standard
+          Field Mapping & Topography Insights
           </Reveal>
         </h2>
         <div className='container'>

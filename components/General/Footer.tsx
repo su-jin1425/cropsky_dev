@@ -28,11 +28,12 @@ const Footer = (): JSX.Element => {
             }
           >
             <Reveal>
-              <h2>About us</h2>
+              <h2> CropSky</h2>
             </Reveal>
             <Reveal textDelay={0.5} slideDelay={0.5}>
               <p>
-                #########################################
+              Empowering farmers with<br/>
+              precision from above.
               </p>
             </Reveal>
           </MainText>
@@ -60,14 +61,14 @@ const Footer = (): JSX.Element => {
           }
         >
           <Reveal>
-            <h2>Support</h2>
+            <h2> Quick Links</h2>
           </Reveal>
           <Reveal textDelay={0.5} slideDelay={0.5}>
             <ul>
-              <li onClick={() => window.open('https://example.com', '_blank')} >A</li><br />
-              <li onClick={() => window.open('https://example.com', '_blank')} >A</li><br />
-              <li onClick={() => window.open('https://example.com', '_blank')} >A</li><br />
-              <li onClick={() => window.open('https://example.com', '_blank')} >A</li>
+              <li onClick={() => window.open('https://example.com', '_blank')} >Home</li><br />
+              <li onClick={() => window.open('https://example.com', '_blank')} >Mission</li><br />
+              <li onClick={() => window.open('https://example.com', '_blank')} >Service</li><br />
+              <li onClick={() => window.open('https://example.com', '_blank')} >Team</li>
             </ul>
           </Reveal>
         </News>
@@ -81,7 +82,7 @@ const Footer = (): JSX.Element => {
           }
         >
           <Reveal>
-            <h2>Social</h2>
+            <h2> Social</h2>
           </Reveal>
           <ul>
             <Reveal textDelay={0.5} slideDelay={0.5}>

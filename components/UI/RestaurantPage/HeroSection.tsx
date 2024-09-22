@@ -10,12 +10,12 @@ const HeroSection = () => {
     <Wrapper>
       <Inner>
         <Reveal>
-          <Title>Page Under Dev</Title>
+          <Title>Optimized Fertilizer Spraying</Title>
         </Reveal>
         <Description>
           <h2>
             <Reveal textDelay={0.5} slideDelay={0.5}>
-              One of a Kind
+            with Custom Drones
             </Reveal>
           </h2>
           <SubTextCtn>
@@ -24,11 +24,7 @@ const HeroSection = () => {
             </span>
             <Reveal textDelay={0.75} slideDelay={0.75}>
               <p>
-                Bank Hotel proudly welcomes you to the Safe Restaurant, a place
-                where you will wish you could dine every day. The restaurant
-                offers a unique menu developed by the team of professionals led
-                by chef Mary-Ann Jones, the wine list with more than 250 items,
-                the outstanding service, and the unforgettable atmosphere.
+              Transform standard drones into precision tools for fertilizer application, featuring variable-rate dispensers that adjust to real-time data and automated targeting for optimal coverage. Integrated with precision agriculture systems, these customized drones reduce waste, ensure even distribution, and minimize environmental impact.
               </p>
             </Reveal>
           </SubTextCtn>

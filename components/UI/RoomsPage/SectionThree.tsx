@@ -53,13 +53,11 @@ const SectionThree = () => {
             </div>
             <div>
               <h2>
-                <Reveal>Superior Twin</Reveal>
+                <Reveal>Blockchain Driven Crop Traceability</Reveal>
               </h2>
               <Reveal textDelay={0.5} slideDelay={0.5}>
                 <p>
-                  All rooms in Bank Hotel have a special charm achieved through
-                  a combination of modern functional design and original 20th
-                  century layout.
+                Leverage machine learning models to analyze historical data and real-time conditions for accurate yield estimates. This insight aids in resource allocation, planning, and strategic decision-making to boost profitability.
                 </p>
               </Reveal>
             </div>
@@ -73,12 +71,7 @@ const SectionThree = () => {
             </div>
             <Reveal textDelay={0.75} slideDelay={0.75}>
               <p>
-                The Superior twin includes two functional zones: a living room
-                with the best Italian furniture, and an isolated cozy bedroom
-                with a large bed. Here, you will find space both for work and
-                comfortable rest. Hotel offers supreme comfort and outstanding
-                24-hour room service to make sure that the time you spend here
-                is enjoyable and pleasant.
+              Utilize a secure blockchain platform to provide full transparency and traceability of crops, ensuring an immutable record of production and distribution. This technology enhances food safety, strengthens consumer trust, and ensures compliance with regulatory standards.
               </p>
             </Reveal>
           </GridItems>

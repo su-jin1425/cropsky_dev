@@ -22,16 +22,11 @@ const SecondSection = () => {
           </div>
           <TextCtn>
             <Reveal>
-              <h2>at your service</h2>
+              <h2>Advanced Plant Disease Detection</h2>
             </Reveal>
             <Reveal textDelay={0.5} slideDelay={0.5}>
               <p>
-                The team of the Safe Restaurant aims to exceed all expectations
-                of our guests. Our chef worked hard to develop a unique menu
-                that features the best meals of the European cuisine that will
-                match the tastes of the most demanding clients. Friendly and
-                attentive waiters will ensure that you will enjoy your time in
-                our restaurant.
+              Utilize our AI-powered model to accurately identify plant diseases through real-time analysis of user-uploaded images. Our system features sophisticated detection algorithms and a comprehensive database, ensuring precise identification and timely intervention.
               </p>
             </Reveal>
           </TextCtn>

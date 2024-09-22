@@ -13,8 +13,7 @@ const ThirdSection = () => {
           <div></div>
           <h2>
             <Reveal>
-              Once you try our cuisine and service, you shall never want to
-              visit another restaurant.
+            Once you experience our service, you will find it impossible to go back to the old ways.
             </Reveal>
           </h2>
         </Header>
@@ -32,8 +31,7 @@ const ThirdSection = () => {
             </div>
             <Reveal>
               <h3>
-                All room decoration was made with ecological certified and safe
-                materials.
+              With Cropsky, farming becomes effortlessly streamlined and more efficient.
               </h3>
             </Reveal>
           </GridItem>
@@ -51,17 +49,12 @@ const ThirdSection = () => {
             <TextCtn>
               <Reveal textDelay={0.5} slideDelay={0.5}>
                 <h2>
-                  Spend Your Time <br /> With Us
+                Automated Compliance Reporting
                 </h2>
               </Reveal>
               <Reveal textDelay={0.75} slideDelay={0.75}>
                 <p>
-                  If you are looking for an exclusive place to have a romantic
-                  dinner, organize a business meeting, or spend an enjoyable
-                  evening with friends, visit Safe Restaurant in Bank Hotel.
-                  With our delicious meals, unique interior design, and
-                  atmosphere of comfort and exquisiteness you shall never want
-                  to go to a different restaurant.
+                Effortlessly manage regulatory requirements with our automated compliance reporting system, which integrates data collection and reporting tools with drone technology. This solution simplifies documentation and reduces administrative burdens, ensuring farms stay compliant with ease.
                 </p>
               </Reveal>
             </TextCtn>
