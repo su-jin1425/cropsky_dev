@@ -1,4 +1,4 @@
-import PageTransition from '@/components/General/PageTransition';
+import PageTransition from '@/components/General/Page-Transition';
 import InitialCover from '@/components/General/Preloader';
 import {
   AboutUs,
@@ -7,7 +7,7 @@ import {
   Header,
   OurFacilities,
   OurGallery,
-  Rooms,
+  Mission,
 } from '@/components/UI';
 import Head from 'next/head';
 import styled from 'styled-components';
@@ -28,7 +28,7 @@ const Home = () => {
         <Header />
         <Banner />
         <AboutUs />
-        <Rooms />
+        <Mission />
         <OurFacilities />
         <BestApartment />
         <OurGallery />

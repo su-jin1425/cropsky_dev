@@ -10,7 +10,7 @@ import arrow from '@/public/svgs/arrow.svg';
 import row_img_2 from '@/public/images/our_facilities/row_img_2.png';
 import label from '@/public/images/our_facilities/label.svg';
 import Reveal from '@/components/General/Reveal';
-import RevealCover, { ImageDiv } from '@/components/General/ImageReveal';
+import RevealCover, { ImageDiv } from '@/components/General/Image-Reveal';
 import { useLayoutEffect, useRef } from 'react';
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/dist/ScrollTrigger';

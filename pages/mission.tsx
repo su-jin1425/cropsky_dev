@@ -1,7 +1,7 @@
-import PageTransition from '@/components/General/PageTransition';
+import PageTransition from '@/components/General/Page-Transition';
 import { Header, RoomBanner, SectionThree, SectionTwo } from '@/components/UI';
 
-const Rooms = () => {
+const Mission = () => {
   return (
     <div>
       <Header />
@@ -12,4 +12,4 @@ const Rooms = () => {
   );
 };
 
-export default PageTransition(Rooms);
+export default PageTransition(Mission);

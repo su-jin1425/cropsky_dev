@@ -3,7 +3,7 @@ import restaurant_img_3 from '@/public/images/restaurant/restaurant_img_3.png';
 import restaurant_img_4 from '@/public/images/restaurant/restaurant_img_4.png';
 import Image from 'next/image';
 import Reveal from '@/components/General/Reveal';
-import RevealCover, { ImageDiv } from '@/components/General/ImageReveal';
+import RevealCover, { ImageDiv } from '@/components/General/Image-Reveal';
 
 const ThirdSection = () => {
   return (

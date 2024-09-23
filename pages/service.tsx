@@ -1,4 +1,4 @@
-import PageTransition from '@/components/General/PageTransition';
+import PageTransition from '@/components/General/Page-Transition';
 import { Header, HeroSection, SecondSection, ThirdSection } from '@/components/UI';
 import styled from 'styled-components';
 

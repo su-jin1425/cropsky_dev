@@ -12,7 +12,7 @@ import Reveal from '@/components/General/Reveal';
 import { useLayoutEffect, useRef } from 'react';
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/dist/ScrollTrigger';
-import RevealCover, { ImageDiv } from '@/components/General/ImageReveal';
+import RevealCover, { ImageDiv } from '@/components/General/Image-Reveal';
 import {
   CenterImgCtn,
   Header,

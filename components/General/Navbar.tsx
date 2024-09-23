@@ -43,23 +43,23 @@ const Navbar = () => {
           </li>
           <li>
             <Link
-              href="/rooms"
+              href="/mission"
               passHref
-              onClick={() => handleNavClick('rooms')}
+              onClick={() => handleNavClick('mission')}
             >
               Mission
-              {pathname.startsWith('/rooms') && (
+              {pathname.startsWith('/mission') && (
                 <Image src={ic_star} alt="star" />
               )}
             </Link>
           </li>
           <li>
             <Link
-              href="/restaurant"
-              onClick={() => handleNavClick('restaurant')}
+              href="/service"
+              onClick={() => handleNavClick('service')}
             >
               Services
-              {pathname === '/restaurant' && <Image src={ic_star} alt="star" />}
+              {pathname === '/service' && <Image src={ic_star} alt="star" />}
             </Link>
           </li>
           <li>

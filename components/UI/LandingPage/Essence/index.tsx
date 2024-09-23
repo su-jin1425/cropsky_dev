@@ -9,7 +9,7 @@ import Reveal from '@/components/General/Reveal';
 import { useLayoutEffect, useRef } from 'react';
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/dist/ScrollTrigger';
-import RevealCover, { ImageDiv } from '@/components/General/ImageReveal';
+import RevealCover, { ImageDiv } from '@/components/General/Image-Reveal';
 import {
   BookRoomBtn,
   Header,
@@ -27,7 +27,7 @@ import useIsMobile from '@/libs/useIsMobile';
 
 gsap.registerPlugin(ScrollTrigger);
 
-const Rooms = () => {
+const Mission = () => {
   const isMobile = useIsMobile();
 
   const container = useRef<HTMLDivElement | null>(null);
@@ -135,4 +135,4 @@ const Rooms = () => {
   );
 };
 
-export default Rooms;
+export default Mission;
